@@ -69,7 +69,7 @@ const DepoimentosSection = () => (
         <h3 className='text-2xl mt-5 font-bold'> "A GPS Tech entregou exatamente o que <br /> precisávamos!"</h3>
         <p className='text-1xl text-justify-left pt-2'> "Trabalhamos com a GPS Tech no desenvolvimento de um sistema de gestão empresarial e ficamos impressionados com a qualidade do trabalho e a atenção aos detalhes. Eles realmente entenderam nossas necessidades e criaram uma solução sob medida."</p>
         <div className="avatar flex w-1/2 pt-5">
-          <img src="img/imagem-de-ico.jpg" alt="cliente" />
+          <img src="img/imagem-de-ico.jpg" alt="" />
           <div className="nome-cargo flex-auto w-1/2">
             <p className="usuario">João Dias</p>
             <p className="loc">Gerente de TI</p>
@@ -82,7 +82,7 @@ const DepoimentosSection = () => (
         <h3 className='text-2xl mt-5 font-bold'> "A equipe da GPS Tech é incrível!"</h3>
         <p className='text-1xl text-justify-left pt-10'> "Ficamos muito satisfeitos com o trabalho da GPS Tech no desenvolvimento do nosso aplicativo móvel. Eles foram proativos, ouviram nossas necessidades e entregaram uma solução que superou expectativas. Recomendo fortemente."</p>
         <div className="avatar flex w-1/2 pt-5 text-justify-left">
-          <img src="img/imagem-de-ico.jpg" alt="cliente" />
+          <img src="img/imagem-de-ico.jpg" alt="" />
           <div className="nome-cargo flex-auto w-1/2">
             <p className="usuario">Maria Silva</p>
             <p>Diretora de Marketing</p>
